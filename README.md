@@ -4,9 +4,9 @@
 
 Test game created with Unity in C#:
 ---
-spawning waves of enemies targeting player;
-upgrade the character's attribute with money from killing enemies;
-infinite parallax background scrolling.
+Spawning waves of enemies targeting player;<br>
+Upgrade the character's attribute with money from killing enemies;<br>
+Infinite parallax background scrolling.
 
 ---
 
